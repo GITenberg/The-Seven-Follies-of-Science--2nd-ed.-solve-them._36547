@@ -1,0 +1,47 @@
+_repo: The-Seven-Follies-of-Science--2nd-ed.-solve-them._36547
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Phin, John
+    birthdate: 1830
+    deathdate: 1913
+    gutenberg_agent_id: '38343'
+    url: http://www.gutenberg.org/2009/agents/38343
+description: ''
+gutenberg_issued: '2011-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36547'
+  lccn: '06002330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Scientific recreations'
+- !lcsh 'Geometry -- Famous problems'
+tableOfContents: 'Preface -- The seven follies of science: Introductory note. Squaring
+  the circle. The duplication of the cube. The trisection of an angle. Perpetual motion.
+  The transmutation of metals, alchemy. The fixation of mercury. The universal medicine
+  and the elixir of life -- Additional follies: Perpetual or ever-burning lamps. The
+  alkahest or universal solvent. Palingenesy. The powder of sympathy -- A small budget
+  of paradoxes, illusions, and marvels (with apologies to Professor De Morgan): The
+  fourth dimension. How a space may be apparently enlarged by merely changing its
+  shape. Can a man lift himself by the straps of his boots? How a spider lifted a
+  snake. How the shadow may be made to move backward on the sun-dial. How a watch
+  may be used as a compass. Micrography or minute writing; writing so fine that the
+  whole Bible, if written in characters of the same size, might be inscribed twenty-two
+  times on a square inch. Illusions of the senses (taste and smell; sense of heat;
+  sense of hearing; sense of touch, one thing appearing as two). How objects may be
+  apparently seen through a hole in the hand. How to see (apparently) through a solid
+  brick -- Curious arithmetical problems: The chess-board problem. The nail problem.
+  A question of population. How to become a millionaire. The actual cost and present
+  value of the First Folio Shakespeare. Arithmetical puzzles. Archimedes and his fulcrum.'
+title: "The Seven Follies of Science [2nd ed.]\r\nA popular account of the most famous\
+  \ scientific impossibilities and the attempts which have been made to solve them.\
+  \ To which is added a small budget of interesting paradoxes, illusions, and marvels"
+url: http://www.gutenberg.org/ebooks/36547
